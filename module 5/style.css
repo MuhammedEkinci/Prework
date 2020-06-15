@@ -1,0 +1,36 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.big {
+    font-size: x-large;
+}
+.small {
+    font-size: x-small;
+}
+.center {
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.font {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.both {
+    color: orange;
+    font-weight: bold;
+}
+.styledFont {
+    color: green;
+}
+.imgBorder {
+    background: yellow;
+    padding: 10px;
+}
